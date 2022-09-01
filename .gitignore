@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+/tmp
+/Videos
+
 
 # Compiled Object files
 *.slo
